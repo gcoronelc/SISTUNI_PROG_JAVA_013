@@ -8,7 +8,7 @@
 - Dirección: https://goo.gl/maps/98vwAt9NZMU2
 - Programa: http://www.sistemasuni.edu.pe/dmodulos/JavaveloperCC.html
 - Contenido: http://www.sistemasuni.edu.pe/dcursos/cursoPjava.html
-- Página: http://gcoronelc.github.io/SISTUNI_PROG_JAVA_012/
+- Página: http://gcoronelc.github.io/SISTUNI_PROG_JAVA_013/
 
 
 # DOCENTE
