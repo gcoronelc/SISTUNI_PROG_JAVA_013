@@ -1,0 +1,34 @@
+body{
+  font-family: Arial, Helvetica, Verdana;
+  font-size: 14px;
+  background-color: #0B173B;
+}
+
+h1{
+  font-size: 2em;
+}
+
+h2{
+  font-size: 1.5em;
+}
+
+#_PAGE{
+  width: 800px;
+  margin: 15px auto;
+  padding: 15px;
+  background-color: #F6E3CE;
+}
+
+
+.enlace:link, .enlace:visited {
+    background-color: #585858;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+.enlace:hover, .enlace:active {
+    background-color: #2E2E2E;
+}
