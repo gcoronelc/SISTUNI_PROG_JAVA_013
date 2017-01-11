@@ -1,1 +1,1 @@
-"C:\Program Files\NetBeans 8.1\bin\netbeans64.exe" --fontsize 18 --console suppress --laf javax.swing.plaf.metal.MetalLookAndFeel
+"F:\Program Files\NetBeans 8.2\bin\netbeans64.exe" --fontsize 18 --console suppress --laf javax.swing.plaf.metal.MetalLookAndFeel
